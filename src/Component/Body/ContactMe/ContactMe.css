@@ -1,0 +1,47 @@
+.ContactMeCont {
+  text-align: center;
+  width: auto;
+  height: 100%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #98adce;
+  color: white;
+  /* border: 1px solid black; */
+}
+
+.inputField {
+  margin-top: 15px;
+  max-width: 300px;
+  min-width: 300px;
+  height: 25px;
+  padding: 5px;
+  border: 2px solid rgba(0, 128, 0, 0);
+  
+}
+
+.textfield {
+  margin-top: 15px;
+  max-width: 300px;
+  min-width: 300px;
+  min-height: 100px;
+  padding: 5px;
+  resize: none;
+}
+
+.submit {
+  margin-top: 15px;
+  max-width: 300px;
+  min-width: 300px;
+  height: 35px;
+  color: #f6f8fb;
+  /* background-color: #3c557f; */
+  background-color: #5073ab;
+  border-radius: 10px;
+  font-size: 20px;
+  border:none !important;
+}
+
+.submit:hover {
+  cursor: pointer;
+
+}

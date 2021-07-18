@@ -1,0 +1,37 @@
+.servicescont {
+  /* height: 100%; */
+  height: fit-content;
+  width: 100%;
+  min-height: 100vh;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #7591be;
+}
+
+.servicesss {
+  width: auto;
+  height: 100%;
+  text-align: center;
+  color: white;
+  /* border: 1px solid black; */
+  padding: 15px;
+  margin-top: 10px;
+}
+
+.servicetext {
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+}
+
+/* .servicetext:hover {
+  cursor: pointer;
+} */
